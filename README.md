@@ -2,7 +2,7 @@
 
 ##  👋 Hi there,
 
-I am **William Mburu**,  a **Contract developer** who is **Skilled in Python, R, SQL, Ruby, React JS, Node JS, and WordPress**. I am a Strong technical professional with a Bachelor of Statistics and Programming from Kenyatta University.
+I am **William Mburu**,  a **Contract developer** who is **Skilled in Python, R, SQL, Ruby, React JS, Node JS, and WordPress**. In addition am a Strong technical professional with a Bachelor of Statistics and Programming from Kenyatta University.
 
 Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 
