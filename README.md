@@ -2,7 +2,7 @@
 
 ##  👋 Hi there,
 
-I am **William Mburu**,  a **Contract developer || Machine Learning Director ** who is **Skilled in Ruby, Python, R, SQL, React Js, Node JS and WordPress**. In addition am a Strong technical professional with a Bachelor of Statistics and Programming from Kenyatta University.
+I am **William Mburu**,  a **Contract developer || Machine Learning Director** who is **Skilled in Ruby, Python, R, SQL, React Js, Node JS and WordPress**. In addition am a Strong technical professional with a Bachelor of Statistics and Programming from Kenyatta University.
 
 Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 
