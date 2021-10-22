@@ -1,6 +1,6 @@
 ![Banner Image](https://github.com/SirWilliam254/SirWilliam254/blob/main/Banner.jpg)
 
-##  👋 Hi there, I am a Data Scientist
+##  👋 Hi there,
 
 I am **William Mburu** working as a **Contract developer**.**Skilled in Python, R, SQL, Ruby, React JS, Node JS, and WordPress**. I am a Strong technical professional with a Bachelor of Statistics and Programming from Kenyatta University.
 
