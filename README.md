@@ -1,5 +1,5 @@
 ![Banner Image](https://github.com/SirWilliam254/SirWilliam254/blob/main/Banner1.jpg)
-#
+
 ##  👋 Hi there,
 
 I am **William Mburu**,  a **Contract developer || Machine Learning Director** who is **Skilled in Ruby, Python, R, SQL, React Js, Node JS and WordPress**. In addition am a Strong technical professional with a Bachelor of Statistics and Programming from Kenyatta University.
