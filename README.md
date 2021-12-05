@@ -24,3 +24,4 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SirWilliam254)](https://github.com/SirWilliam254/github-profile-trophy)
 
+![](https://komarev.com/ghpvc/SirWilliam254?username=&color=green)
