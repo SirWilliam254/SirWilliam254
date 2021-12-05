@@ -1,8 +1,7 @@
 ![Banner Image](https://github.com/SirWilliam254/SirWilliam254/blob/main/Banner1.jpg)
 
-##  <img src="tenor.gif" height="25" width="30"> Hi there,<img src="flag.gif" height="30" width="30" align ="right">
+## 👋  Hi there,<img src="flag.gif" height="30" width="30" align ="right">
 
-👋 
 I am **William Mburu**,  a **Contract developer || Machine Learning Director** who is **Skilled in Ruby, Python, R, SQL, React Js, Node JS and WordPress**. In addition am a Strong technical professional with a Bachelor of Statistics and Programming from Kenyatta University.
 
 Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
