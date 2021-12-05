@@ -13,7 +13,7 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 ---
 
 - 🌱 I’m currently learning **Python - Geospatial - Analysis**
-- 👯 I’m looking to collaborate on open source/commercial projects
+- 💻 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Machine Learning Models**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/William55035620)**
