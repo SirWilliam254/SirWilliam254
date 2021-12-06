@@ -6,7 +6,6 @@ I am **William Mburu**,  a **Contract developer || Machine Learning Director** w
 
 Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 
-
 [![Linkedin: William](https://img.shields.io/badge/-William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-mburu-a3907b1a8/)](https://www.linkedin.com/in/william-mburu-a3907b1a8/)
 [![GitHub William](https://img.shields.io/github/followers/SirWilliam254?label=follow&style=social)](https://github.com/SirWilliam254)
 ![Twitter Follow](https://img.shields.io/twitter/follow/William55035620?style=social)
