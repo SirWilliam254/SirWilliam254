@@ -31,9 +31,8 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true" alt="SirWilliam254" />
 </p>
 <br />
-<br />
-<br />
 
+## ⚙️ Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SirWilliam254&layout=compact&theme=dark&hide_border=true)](https://github.com/SirWilliam254/github-profile-trophy)
 
