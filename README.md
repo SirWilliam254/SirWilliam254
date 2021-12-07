@@ -21,18 +21,18 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&layout=compact&theme=dark&hide_border=true)
 
-
-
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true&hide_border=true&theme=dark)
-
-
 <br />
 <p align="left">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true" alt="SirWilliam254" />
 </p>
 
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true&hide_border=true&theme=dark)
 
-## ⚙️ Stats
+
+
+
+
+## 📕 Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SirWilliam254&layout=compact&theme=dark&hide_border=true)](https://github.com/SirWilliam254/github-profile-trophy)
 
