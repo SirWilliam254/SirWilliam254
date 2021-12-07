@@ -18,6 +18,10 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/William55035620)**
   
+## ⚙️ Stats
+
+<p align="center"><a href="https://profile.codersrank.io/user/SirWilliam254/" target="_blank"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alok722&show-avatar=true" alt="SirWilliam254" /></a></p>
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&layout=compact&theme=dark&hide_border=true)
 
