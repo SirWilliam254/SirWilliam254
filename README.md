@@ -12,8 +12,8 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 
 ---
 <br />
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true" alt="SirWilliam254" />
+<p align="left">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true" alt="SirWilliam254" />
 </p>
 
 - 🌱 I’m currently learning **Python - Geospatial - Analysis**
