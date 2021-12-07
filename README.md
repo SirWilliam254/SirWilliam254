@@ -25,9 +25,9 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true&hide_border=true&theme=dark)
 
+## This Week
 
-
-
+[This Weeks stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=SirWilliam254&hide_title=true&hide_border=true&theme=dark)
 
 ## 📕 Stats
 
