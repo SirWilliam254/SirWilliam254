@@ -30,7 +30,7 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 <p align="left">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true" alt="SirWilliam254" />
 </p>
-
+<br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=SirWilliam254)](https://github.com/SirWilliam254/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/SirWilliam254?username=&color=green)
