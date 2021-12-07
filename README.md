@@ -30,7 +30,7 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 <p align="left">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true" alt="SirWilliam254" />
 </p>
-<br />
+
 
 ## ⚙️ Stats
 
