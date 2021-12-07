@@ -27,7 +27,7 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 
 ## This Week
 
-[This Weeks stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=SirWilliam254&hide_title=true&hide_border=true&theme=dark)
+[This Weeks stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=SirWilliam254&layout=compact&theme=dark&hide_title=true&hide_border=true)
 
 ## 📕 Stats
 
