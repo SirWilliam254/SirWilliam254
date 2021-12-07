@@ -18,7 +18,7 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/William55035620)**
   
-## ⚙️ Stats
+## 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&layout=compact&theme=dark&hide_border=true)
 
