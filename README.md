@@ -25,11 +25,12 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true&hide_border=true&theme=dark)
 
-## This Week
+## 📕 This Week
 
-[This Weeks stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=SirWilliam254&layout=compact&theme=dark&hide_title=true&hide_border=true)
+<p align="center"><img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=SirWilliam254&hide_title=true&hide_border=true&theme=algolia" alt="SirWilliam254 weeks stat" /></p>
+<br />
 
-## 📕 Stats
+##  Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SirWilliam254&layout=compact&theme=dark&hide_border=true)](https://github.com/SirWilliam254/github-profile-trophy)
 
