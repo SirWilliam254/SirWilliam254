@@ -18,21 +18,17 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/William55035620)**
   
-<br />
 
-<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&layout=compact&theme=dark&hide_border=true)
-</p>
- <br />
 
-<p align="center">
+
+
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true&hide_border=true&theme=dark)
-</p>
+
 
 <br />
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true" alt="SirWilliam254" />
+<p align="left">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true" alt="SirWilliam254" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SirWilliam254)](https://github.com/SirWilliam254/github-profile-trophy)
