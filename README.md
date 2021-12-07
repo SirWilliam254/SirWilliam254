@@ -11,6 +11,10 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 ![Twitter Follow](https://img.shields.io/twitter/follow/William55035620?style=social)
 
 ---
+<br />
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true" alt="SirWilliam254" />
+</p>
 
 - 🌱 I’m currently learning **Python - Geospatial - Analysis**
 - 💻 I’m looking to collaborate on open source/commercial projects
@@ -21,10 +25,7 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&layout=compact&theme=dark&hide_border=true)
 
-<br />
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true" alt="SirWilliam254" />
-</p>
+
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true&hide_border=true&theme=dark)
 
