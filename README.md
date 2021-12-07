@@ -17,17 +17,26 @@ Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
 - 💬 Ask me about **Machine Learning Models**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/William55035620)**
+  
+<br />
 
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&layout=compact&theme=dark&hide_border=true)
+</p>
+ <br />
 
+<p align="center">
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true&hide_border=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SirWilliam254)](https://github.com/SirWilliam254/github-profile-trophy)
-
-![](https://komarev.com/ghpvc/SirWilliam254?username=&color=green)
+</p>
 
 <br />
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true" alt="SirWilliam254" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SirWilliam254)](https://github.com/SirWilliam254/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/SirWilliam254?username=&color=green)
+
+
