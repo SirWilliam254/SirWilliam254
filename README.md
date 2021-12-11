@@ -4,7 +4,7 @@
 
 I am **William Mburu**,  a **Contract developer || Machine Learning Director** who is **Skilled in Ruby, Python, R, SQL, React Js, Node JS and WordPress**. In addition am a Strong technical professional with a Bachelor of Statistics and Programming from Kenyatta University.
 
-Vist my **[Blog](https://sirwilliam254.github.io/flexible-jekyll/)**
+Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)**
 
 [![Linkedin: William](https://img.shields.io/badge/-William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-mburu-a3907b1a8/)](https://www.linkedin.com/in/william-mburu-a3907b1a8/)
 [![GitHub William](https://img.shields.io/github/followers/SirWilliam254?label=follow&style=social)](https://github.com/SirWilliam254)
