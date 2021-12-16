@@ -32,4 +32,10 @@ Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)
 
 ![](https://komarev.com/ghpvc/SirWilliam254?username=&color=green)
 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/SirWilliam254/count.svg" alt="" /></td>
+  </tr>
+</table>
 
