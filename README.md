@@ -23,6 +23,8 @@ Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&layout=compact&theme=dark&hide_border=true)
 
+The HTML language stands out as most of the repo's are being served within as static websites. 
+
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true)
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true&hide_border=true&theme=dark)
