@@ -21,7 +21,7 @@ Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)
   
 ## ⚙️ Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&hide=html,jupyter&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&hide=html,jupyternotebook&layout=compact&theme=dark&hide_border=true)
 
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true)
