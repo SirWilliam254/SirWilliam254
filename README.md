@@ -23,7 +23,7 @@ Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&layout=compact&theme=dark&hide_border=true)
 
-The HTML language stands out since most of the repo's are being served within github, as static websites. 
+The HTML language stands out since I have served most of the repo's within github, as static websites. 
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true)
 
