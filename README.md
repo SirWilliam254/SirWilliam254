@@ -21,7 +21,7 @@ Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)
   
 ## ⚙️ Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&hide=html, jupiter notebook&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&hide=html, Jupiter Notebook&layout=compact&theme=dark&hide_border=true)
 
 The HTML language stands out since I have served most of the repo's within github, as static websites. 
 
