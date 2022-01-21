@@ -13,7 +13,7 @@ Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)
 
 ---
 
-- 🌱 I’m currently learning **Python - Time Series - Analysis**
+- 🌱 I’m currently learning **Python - Time Series - Analysis & CRYPTO **
 - 💻 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Machine Learning Models**
 - 📫 How to reach me:
