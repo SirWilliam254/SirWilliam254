@@ -11,6 +11,7 @@ Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)
 [![GitHub William](https://img.shields.io/github/followers/SirWilliam254?label=follow&style=social)](https://github.com/SirWilliam254)
 ![Twitter Follow](https://img.shields.io/twitter/follow/William55035620?style=social)
 
+
 ---
 - 🌱 I’m currently learning **Python - Time Series - Analysis & CRYPTO**
 - 💻 I’m looking to collaborate on open source/commercial projects
