@@ -10,7 +10,7 @@ Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)
 [![Linkedin: William](https://img.shields.io/badge/-William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-mburu-a3907b1a8/)](https://www.linkedin.com/in/william-mburu-a3907b1a8/)
 [![GitHub William](https://img.shields.io/github/followers/SirWilliam254?label=follow&style=social)](https://github.com/SirWilliam254)
 ![Twitter Follow](https://img.shields.io/twitter/follow/William55035620?style=social)
-
+![GitHub Sponsors](https://img.shields.io/github/sponsors/SirWilliam254?style=plastic)
 ---
 - 🌱 I’m currently learning **Python - Time Series - Analysis & CRYPTO**
 - 💻 I’m looking to collaborate on open source/commercial projects
