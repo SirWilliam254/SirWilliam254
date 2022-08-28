@@ -16,7 +16,10 @@ Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)
 - 💬 Ask me about **Machine Learning Models**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/William55035620)**
-  
+ 
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="william-mburu-a3907b1a8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/william-mburu-a3907b1a8?trk=profile-badge">William Mburu</a></div>
+              
+ 
 ## ⚙️ Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&hide=html,jupyter%20notebook,css,scss&layout=compact&theme=dark&hide_border=true)
