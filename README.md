@@ -6,8 +6,8 @@
 As a **data cruncher** with a passion for extracting insights from complex datasets, I've honed my skills in data analysis, visualization, and storytelling. With experience in a variety of industries including finance, healthcare, and marketing, I am able to quickly adapt to new environments and complex business problems.
 My strength is my ability to clearly and concisely communicate technical findings to non-technical stakeholders, facilitating data-driven decision making. I am an expert in tools such as Python, R, and SQL, and I am always looking for new ways to learn about new technologies and techniques.
 
-Whether I'm analyzing financial data to provide insights for business strategy or developing interactive dashboards to track marketing campaign performance, my goal is to always deliver accurate and actionable insights that drive business growth. I am a highly motivated and detail-oriented individual with a proven track record of delivering high-quality results on time.
-In addition am a Strong technical professional with a Bachelor of Statistics and Programming from Kenyatta University.
+Whether I'm analyzing `financial data` to provide insights for business strategy or developing interactive dashboards to track marketing campaign performance, my goal is to always deliver accurate and actionable insights that drive business growth. I am a highly motivated and detail-oriented individual with a proven track record of delivering high-quality results on time.
+In addition am a Strong technical professional with a `Bachelor of Statistics and Programming` from Kenyatta University.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)**
