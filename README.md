@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/SirWilliam254/SirWilliam254/blob/main/Banner1.jpg)
+![Banner Image](https://github.com/SirWilliam254/SirWilliam254/blob/main/Bana.jpg)
 
 
 ## 👋  Hi there,<img src="flag.gif" height="30" width="30" align ="right">
