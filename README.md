@@ -18,7 +18,7 @@ Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)
 ---
 - 🌱 I’m currently learning **KPI and CRM management**
 - 💻 I’m looking to collaborate on open source/commercial projects
-- 💬 Ask me about **Machine Learning Models**
+- 💬 Ask me about **Statistical Models**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/WilliamCinemat)**
  
