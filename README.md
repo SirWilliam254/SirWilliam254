@@ -46,7 +46,7 @@ Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)
 </table>
 
 ```
-[Programming is like life; localized islands of complexity rising out of a sea of entropy. The complexity is "consistency" and "increasing logical manipulation]
+[Programming is like life; localized islands of complexity rising out of a sea of entropy...]
 ```
 
 The statement implies that programming, like life, is a complex process that involves creating localized structures of order and meaning within a larger, chaotic environment. These structures are created through the consistent application of logical rules and the manipulation of information in a way that increases its logical coherence.
