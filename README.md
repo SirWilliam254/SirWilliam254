@@ -12,7 +12,7 @@ In addition am a Strong technical professional with a `Bachelor of Statistics an
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ```
-Programming is like life; localized islands of complexity rising out of a sea of entropy...]
+Programming is like life; localized islands of complexity rising out of a sea of entropy...
 ```
 
 The statement implies that programming, like life, is a complex process that involves creating localized structures of order and meaning within a larger, chaotic environment. These structures are created through the consistent application of logical rules and the manipulation of information in a way that increases its logical coherence.
