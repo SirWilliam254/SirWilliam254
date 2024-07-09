@@ -42,7 +42,9 @@ Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true&hide_border=true&theme=dark)
+###### https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github
+
+![William's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true&hide_border=true&theme=dark&rank_icon=github)
 
 ## 
 
