@@ -4,9 +4,8 @@
 ## 👋  Hi there,<img src="flag.gif" height="30" width="30" align ="right">
 
 As a **data cruncher** with a passion for extracting insights from complex datasets, I've honed my skills in data analysis, visualization, and storytelling. With experience in a variety of industries including finance, healthcare, and marketing, I am able to quickly adapt to new environments and complex business problems.
-My strength is my ability to clearly and concisely communicate technical findings to non-technical stakeholders, facilitating data-driven decision making. I am an expert in tools such as `Python, R, and SQL` and I am always looking for new ways to learn about new technologies and techniques.
 
-Whether I'm analyzing financial data to provide insights for business strategy or developing interactive dashboards to track marketing campaign performance, my goal is to always deliver accurate and actionable insights that drive business growth. I am a highly motivated and detail-oriented individual with a proven track record of delivering high-quality results on time.
+Whether analyzing financial data to provide insights for business strategy or developing interactive dashboards to track marketing campaign performance, my goal is to always deliver accurate and actionable insights that drive business growth. I am a highly motivated and detail-oriented individual with a proven track record of delivering high-quality results on time.
 In addition am a Strong technical professional with a `Bachelor of Statistics and Programming` from Kenyatta University.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -14,10 +13,7 @@ In addition am a Strong technical professional with a `Bachelor of Statistics an
 ```
 Programming is like life; localized islands of complexity rising out of a sea of entropy...
 ```
-
-The statement implies that programming, like life, is a complex process that involves creating localized structures of order and meaning within a larger, chaotic environment. These structures are created through the consistent application of logical rules and the manipulation of information in a way that increases its logical coherence.
-
-In other words, programming involves creating functional systems out of chaos and disorder by applying consistent rules and manipulating data in a logical way. This requires a combination of creativity and analytical thinking, as well as a deep understanding of the underlying principles and tools of programming. Just like in life, the process of programming involves navigating a constantly shifting landscape of challenges and opportunities, and requires the ability to adapt and evolve in response to new circumstances.
+creating functional systems out of chaos and disorder by applying consistent rules and manipulating data in a logical way which encapsulates navigation of a constantly shifting landscape of challenges and opportunities, ergo demonstrating ability to adapt and evolve in response to new circumstances.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Vist my **[Projects portfolio](https://sirwilliam254.github.io/flexible-jekyll/)**
