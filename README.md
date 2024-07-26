@@ -14,7 +14,7 @@ Programming is like life; localized islands of complexity rising out of a sea of
 creating functional systems out of chaos and disorder by applying consistent rules and manipulating data in a logical way which encapsulates navigation of a constantly shifting landscape of challenges and opportunities, ergo demonstrating ability to adapt and evolve in response to new circumstances.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Vist my **[Projects Blog](https://sirwilliam254.github.io/flexible-jekyll/)**      ||       **[Website]()**
+Vist my **[Projects Blog](https://sirwilliam254.github.io/flexible-jekyll/)**      ||       **[Website](https://williammburu.netlify.app/)**
 
 [![Linkedin: William](https://img.shields.io/badge/-William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-mburu-a3907b1a8/)](https://www.linkedin.com/in/william-mburu-a3907b1a8/)
 [![GitHub William](https://img.shields.io/github/followers/SirWilliam254?label=follow&style=social)](https://github.com/SirWilliam254)
