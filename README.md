@@ -20,7 +20,7 @@ Vist my **[Projects Blog](https://sirwilliam254.github.io/flexible-jekyll/)**   
 [![GitHub William](https://img.shields.io/github/followers/SirWilliam254?label=follow&style=social)](https://github.com/SirWilliam254)
 ![Twitter Follow](https://img.shields.io/twitter/follow/WilliamCinemat?style=social)
 ---
-- 🌱 I’m currently learning **Financial and Statistical Models**
+- 🌱 I’m currently learning **Web 3, blockchain & crypto currency**
 - 💻 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Statistical Models**
 - 📫 How to reach me:
