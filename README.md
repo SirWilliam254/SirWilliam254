@@ -3,14 +3,16 @@
 
 ## 👋  Hi there,<img src="flag.gif" height="30" width="30" align ="right">
 
+```
+No man became Wise by Chance
+```
+
 Whether analyzing financial data to provide insights for business strategy or developing interactive dashboards to track marketing campaign performance, my goal is to always deliver accurate and actionable insights that drive business growth. I am a highly motivated and detail-oriented individual with a proven track record of delivering high-quality results on time.
 In addition am a Strong technical professional with a `Bachelor of Statistics and Programming` from Kenyatta University.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-```
-Programming is like life; localized islands of complexity rising out of a sea of entropy...
-```
+
 creating functional systems out of chaos and disorder by applying consistent rules and manipulating data in a logical way which encapsulates navigation of a constantly shifting landscape of challenges and opportunities, ergo demonstrating ability to adapt and evolve in response to new circumstances.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
