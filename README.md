@@ -19,12 +19,7 @@ Vist my **[Projects Blog](https://sirwilliam254.github.io/blog/)**      ||      
 ---
 - 🌱 I’m currently learning **Web 3, blockchain & crypto currency**
 - 💻 I’m looking to collaborate on open source/commercial projects
-- 💬 Ask me about **Statistical Models**
-- 📫 How to reach me:
-  **[Twitter](https://twitter.com/WilliamCinemat)**
- 
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="william-mburu-a3907b1a8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/william-mburu-a3907b1a8?trk=profile-badge">William Mburu</a></div>
-              
+- 💬 Ask me about **Statistical Models**       
  
 ## ⚙️ Stats
 
