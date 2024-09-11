@@ -11,7 +11,7 @@ I'm Creative Director & Software Engineer from Nairobi Kenya, working in app and
 In addition am a Strong technical professional with a `Bachelor of Statistics and Programming` from Kenyatta University.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Vist my  **[Website](https://william-mburu.netlify.app/)** || **[Data science Blog](https://sirwilliam254.github.io/blog/)** || **[Finance Blog](https://sirwilliam254.github.io/blog/)**
+Vist my  **[Website](https://william-mburu.netlify.app/)** || **[Data science Blog](https://sirwilliam254.github.io/blog/)** || **[Finance Blog](https://financea.vercel.app/)**
 
 [![Linkedin: William](https://img.shields.io/badge/-William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-mburu-a3907b1a8/)](https://www.linkedin.com/in/william-mburu-a3907b1a8/)
 [![GitHub William](https://img.shields.io/github/followers/SirWilliam254?label=follow&style=social)](https://github.com/SirWilliam254)
