@@ -23,7 +23,7 @@ Vist my  **[Website](https://william-mburu.netlify.app/)** || **[Data science Bl
  
 ## ⚙️ Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&hide=html,jupyter%20notebook,css,scss&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&hide=html,jupyter%20notebook,css,astro,ruby,scss&layout=compact&theme=dark&hide_border=true)
 
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true)
