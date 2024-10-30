@@ -7,8 +7,8 @@
 No man became Wise by Chance
 ```
 
-I'm Creative Director & Software Engineer from Nairobi Kenya, working in app and web development. I enjoy turning complex problems into simple, beautiful and intuitive designs. I am a highly motivated and detail-oriented individual with a proven track record of delivering high-quality results on time.
-In addition am a Strong technical professional with a `Bachelor of Statistics and Programming` from Kenyatta University.
+William is a Creative Director & Software Engineer from Nairobi Kenya, working in app and web development who enjoys turning complex problems into simple, beautiful and intuitive designs. He is a highly motivated and detail-oriented individual with a proven track record of delivering high-quality results on time.
+In addition has a Strong technical background having a `Bachelor of Statistics and Programming` from Kenyatta University.
 
 ```
 The things we learn that are completely unrelated to each other tend to compliment each other surprisingly
