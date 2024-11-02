@@ -33,7 +33,7 @@ Vist my  **[Website](https://william-mburu.netlify.app/)** || **[Data science Bl
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=SirWilliam254&theme=dark&hide_border=true)
 
 
-![William's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true&hide=issues,contribs&hide_border=true&theme=dark&rank_icon=github)
+![William's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true,contribs&hide_border=true&theme=dark&rank_icon=github)
 
 ## 
 
