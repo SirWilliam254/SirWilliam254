@@ -29,6 +29,8 @@ Vist my  **[Website](https://williammburu.netlify.app/)** || **[Data science Blo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&hide=html,jupyter%20notebook,css,astro,ruby,scss&layout=compact&theme=dark&hide_border=true)
 
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+
 
 ![William's github stats](https://github-readme-stats.vercel.app/api?username=SirWilliam254&show_icons=true,contribs&hide_border=true&theme=dark&rank_icon=github)
 
