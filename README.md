@@ -1,5 +1,6 @@
 ![Banner Image](https://github.com/SirWilliam254/SirWilliam254/blob/main/Banner.jpg)
 
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 
 ## 👋  Hi there,<img src="flag.gif" height="30" width="30" align ="right">
 
