@@ -1,4 +1,13 @@
-![Banner Image](https://github.com/SirWilliam254/SirWilliam254/blob/main/Banner.jpg)
+<!-- ![Banner Image](https://github.com/SirWilliam254/SirWilliam254/blob/main/Banner.jpg) -->
+<table>
+  <tr>
+   <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></td>
+   <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></td>
+   <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /></td>
+   <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></td>
+  </tr>
+</table>
 
 ## 👋  Hi there,<img src="flag.gif" height="30" width="30" align ="right">
 
@@ -27,16 +36,6 @@ Vist my  **[Website](https://williammburu.netlify.app/)** || **[Data science Blo
 ## ⚙️ Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirWilliam254&hide=html,jupyter%20notebook,css,astro,ruby,scss&layout=compact&theme=dark&hide_border=true)
-
-<table>
-  <tr>
-   <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></td>
-    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></td>
-   <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></td>
-   <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /></td>
-   <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></td>
-  </tr>
-</table>
 
 
 
